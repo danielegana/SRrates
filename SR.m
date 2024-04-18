@@ -1,3 +1,5 @@
+(* Daniel Egaña-Ugrinovic, 2021*)
+
 (* ::Package:: *)
 
 (* ::Input::Initialization:: *)
